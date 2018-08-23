@@ -7,6 +7,6 @@ I was sitting in a room with a wall hanging in it made by local school children 
 
 The bees start off in the middle and move randomly, but if they tend to stray over the edge of the canvas they will return to it instead. If the window is resized to be smaller the bees will move back into the canvas as soon as possible.
 
-Just a bit of fun.
+Just a bit of fun. [Demo here](https://demos.hibbert.online/bees/bees.html).
 
 Note: the bee SVG started from [Pixabay](https://pixabay.com/en/bee-animal-smile-insect-honey-2519764/) and was a free download under Creative Commons license. I cannot remember which honeycomb SVG I started with unfortunately.
